@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+sqlalchemy
+bcrypt
+joblib
+reportlab
+easyocr
+lifelines
+streamlit-option-menu
+Pillow
